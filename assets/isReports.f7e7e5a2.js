@@ -1,0 +1,1 @@
+import{Q as a}from"./QPage.ba28a2f9.js";import{ac as s,ae as e,af as t,ag as o,aj as r}from"./index.36f77e48.js";const c={},p=r("h5",{class:"q-pa-lg"},"Reports",-1);function _(n,f,i,l,d,m){return e(),t(a,{class:"q-pa-lg"},{default:o(()=>[p]),_:1})}var h=s(c,[["render",_]]);export{h as default};
